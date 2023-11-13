@@ -1,0 +1,5 @@
+08_I2C_receiveData_ArduinoToSTM32.c:33:6:I2C1_GPIOInits	24	static
+08_I2C_receiveData_ArduinoToSTM32.c:60:6:I2C1_Inits	8	static
+08_I2C_receiveData_ArduinoToSTM32.c:72:6:GPIO_ButtonInit	32	static
+08_I2C_receiveData_ArduinoToSTM32.c:102:6:delay	16	static
+08_I2C_receiveData_ArduinoToSTM32.c:107:5:main	24	static

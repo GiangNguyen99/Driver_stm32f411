@@ -1,0 +1,5 @@
+07_I2C_sendData_STM32toArduino.c:33:6:I2C1_GPIOInits	24	static
+07_I2C_sendData_STM32toArduino.c:61:6:I2C1_Inits	8	static
+07_I2C_sendData_STM32toArduino.c:74:6:GPIO_ButtonInit	32	static
+07_I2C_sendData_STM32toArduino.c:103:6:delay	16	static
+07_I2C_sendData_STM32toArduino.c:107:5:main	16	static

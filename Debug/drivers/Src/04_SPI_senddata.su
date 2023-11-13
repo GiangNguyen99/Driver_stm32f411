@@ -1,0 +1,4 @@
+04_SPI_senddata.c:22:6:SPI1_GPIOInits	24	static
+04_SPI_senddata.c:51:6:SPI1_Inits	40	static
+04_SPI_senddata.c:67:6:delay	16	static
+04_SPI_senddata.c:71:5:main	24	static

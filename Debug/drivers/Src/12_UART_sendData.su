@@ -1,0 +1,5 @@
+12_UART_sendData.c:11:6:USART2_Init	8	static
+12_UART_sendData.c:23:7:USART2_GPIOInit	24	static
+12_UART_sendData.c:45:6:GPIO_ButtonInit	32	static
+12_UART_sendData.c:74:6:delay	16	static
+12_UART_sendData.c:80:5:main	8	static

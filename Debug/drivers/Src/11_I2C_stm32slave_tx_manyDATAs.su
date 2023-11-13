@@ -1,0 +1,8 @@
+11_I2C_stm32slave_tx_manyDATAs.c:38:6:I2C1_GPIOInits	24	static
+11_I2C_stm32slave_tx_manyDATAs.c:64:6:I2C1_Inits	8	static
+11_I2C_stm32slave_tx_manyDATAs.c:75:6:GPIO_ButtonInit	32	static
+11_I2C_stm32slave_tx_manyDATAs.c:104:6:delay	16	static
+11_I2C_stm32slave_tx_manyDATAs.c:108:5:main	8	static
+11_I2C_stm32slave_tx_manyDATAs.c:137:6:I2C1_EV_IRQHandler	8	static
+11_I2C_stm32slave_tx_manyDATAs.c:141:6:I2C1_ER_IRQHandler	8	static
+11_I2C_stm32slave_tx_manyDATAs.c:145:6:I2C_ApplicationEventCallback	16	static

@@ -1,0 +1,13 @@
+ds3231.c:23:9:ds3231_init	16	static
+ds3231.c:55:6:ds3231_set_current_time	24	static
+ds3231.c:81:6:ds3231_set_current_date	24	static
+ds3231.c:97:6:ds3231_get_current_time	24	static
+ds3231.c:125:6:ds3231_get_current_date	16	static
+ds3231.c:134:13:ds3231_i2c_pin_config	32	static
+ds3231.c:168:13:ds3231_i2c_config	8	static
+ds3231.c:176:13:ds3231_write	32	static
+ds3231.c:184:16:ds3231_read	32	static
+ds3231.c:193:16:binary_to_bcd	24	static
+ds3231.c:209:16:bcd_to_binary	24	static
+ds3231.c:217:6:ds3231_set_time_alarm1	32	static
+ds3231.c:280:6:ds3231_clear_sr	8	static
